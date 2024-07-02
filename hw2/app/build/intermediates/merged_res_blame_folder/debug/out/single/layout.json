@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.hw2.app-mergeDebugResources-47:/layout/fragment_settings.xml",
+        "source": "com.example.hw2.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.example.hw2.app-mergeDebugResources-47:/layout/fragment_notifications.xml",
+        "source": "com.example.hw2.app-main-50:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.hw2.app-mergeDebugResources-47:/layout/fragment_display.xml",
+        "source": "com.example.hw2.app-main-50:/layout/fragment_display.xml"
+    },
+    {
+        "merged": "com.example.hw2.app-mergeDebugResources-47:/layout/fragment_message.xml",
+        "source": "com.example.hw2.app-main-50:/layout/fragment_message.xml"
+    },
+    {
+        "merged": "com.example.hw2.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.example.hw2.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.hw2.app-mergeDebugResources-47:/layout/home_menu.xml",
+        "source": "com.example.hw2.app-main-50:/layout/home_menu.xml"
+    },
+    {
+        "merged": "com.example.hw2.app-mergeDebugResources-47:/layout/fragment_music.xml",
+        "source": "com.example.hw2.app-main-50:/layout/fragment_music.xml"
+    }
+]
